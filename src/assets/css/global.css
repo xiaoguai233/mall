@@ -42,3 +42,9 @@ div .el-scrollbar__wrap {
 .ql-editor{
     min-height: 300px;
 }
+.el-steps{
+    margin: 15px 0;
+}
+.el-step_title {
+    font-size: 13px;
+}
