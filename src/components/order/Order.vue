@@ -35,7 +35,7 @@
                 </template>
             </el-table-column>
             <el-table-column label="操作" width="140px">
-                <template slot-scope="scope" width="130px">
+                <template width="130px">
                     <el-button type="primary" icon="el-icon-edit" 
                     size="mini" @click="showBox"></el-button>
                     <el-button type="success" icon="el-icon-location" 
